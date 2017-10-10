@@ -1,0 +1,14 @@
+{
+  "name": "shopping_basket_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "item.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
